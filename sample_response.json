@@ -1,0 +1,635 @@
+{
+    "data": [
+        {
+            "id": "833",
+            "type": "professional_cards",
+            "attributes": {
+                "email_address": null,
+                "phone_number": null,
+                "postal_address": null,
+                "personal_details": {
+                    "professional_title": "inżynier",
+                    "academic_degree": "brak",
+                    "primary_voivodeship": "Dolnośląskie",
+                    "memberships": []
+                },
+                "decision": {
+                    "names": "Władysław Henryk Alejski",
+                    "decision_number": "25/96/Lw",
+                    "permission_number": null
+                },
+                "contact_data": {
+                    "address": {}
+                },
+                "specialities": [
+                    {
+                        "speciality": "instalacyjna w zakresie sieci, instalacji i urządzeń elektrycznych i elektroenergetycznych",
+                        "discipline": "projektowanie i kierowanie robotami budowlanymi",
+                        "extent": "bez ograniczeń"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "834",
+            "type": "professional_cards",
+            "attributes": {
+                "email_address": null,
+                "phone_number": null,
+                "postal_address": null,
+                "personal_details": {
+                    "professional_title": "inżynier",
+                    "academic_degree": "brak",
+                    "primary_voivodeship": "Dolnośląskie",
+                    "memberships": []
+                },
+                "decision": {
+                    "names": "Ryszard Artur Biernacki",
+                    "decision_number": "26/96/Lw",
+                    "permission_number": null
+                },
+                "contact_data": {
+                    "address": {}
+                },
+                "specialities": [
+                    {
+                        "speciality": "instalacyjna w zakresie sieci, instalacji i urządzeń elektrycznych i elektroenergetycznych",
+                        "discipline": "projektowanie i kierowanie robotami budowlanymi",
+                        "extent": "bez ograniczeń"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "835",
+            "type": "professional_cards",
+            "attributes": {
+                "email_address": null,
+                "phone_number": null,
+                "postal_address": null,
+                "personal_details": {
+                    "professional_title": "technik",
+                    "academic_degree": "brak",
+                    "primary_voivodeship": "Dolnośląskie",
+                    "memberships": []
+                },
+                "decision": {
+                    "names": "Kazimierz Antoni Chomicz",
+                    "decision_number": "27/96/Lw",
+                    "permission_number": null
+                },
+                "contact_data": {
+                    "address": {}
+                },
+                "specialities": [
+                    {
+                        "speciality": "instalacyjna w zakresie sieci, instalacji i urządzeń elektrycznych i elektroenergetycznych",
+                        "discipline": "kierowanie robotami budowlanymi",
+                        "extent": "ograniczone"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "836",
+            "type": "professional_cards",
+            "attributes": {
+                "email_address": null,
+                "phone_number": null,
+                "postal_address": null,
+                "personal_details": {
+                    "professional_title": "inżynier",
+                    "academic_degree": "brak",
+                    "primary_voivodeship": "Dolnośląskie",
+                    "memberships": []
+                },
+                "decision": {
+                    "names": "Jan Szynal",
+                    "decision_number": "30/96/Lw",
+                    "permission_number": null
+                },
+                "contact_data": {
+                    "address": {}
+                },
+                "specialities": [
+                    {
+                        "speciality": "instalacyjna w zakresie sieci, instalacji i urządzeń elektrycznych i elektroenergetycznych",
+                        "discipline": "projektowanie i kierowanie robotami budowlanymi",
+                        "extent": "bez ograniczeń"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "837",
+            "type": "professional_cards",
+            "attributes": {
+                "email_address": null,
+                "phone_number": null,
+                "postal_address": null,
+                "personal_details": {
+                    "professional_title": "magister inżynier",
+                    "academic_degree": "brak",
+                    "primary_voivodeship": "Dolnośląskie",
+                    "memberships": [
+                        "Dolnośląska Okręgowa Izba Inżynierów Budownictwa"
+                    ]
+                },
+                "decision": {
+                    "names": "Henryk Żmurko",
+                    "decision_number": "31/96/Lw",
+                    "permission_number": null
+                },
+                "contact_data": {
+                    "address": {}
+                },
+                "specialities": [
+                    {
+                        "speciality": "instalacyjna w zakresie sieci, instalacji i urządzeń elektrycznych i elektroenergetycznych",
+                        "discipline": "kierowanie robotami budowlanymi",
+                        "extent": "bez ograniczeń"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "921",
+            "type": "professional_cards",
+            "attributes": {
+                "email_address": null,
+                "phone_number": null,
+                "postal_address": null,
+                "personal_details": {
+                    "professional_title": "magister inżynier",
+                    "academic_degree": "brak",
+                    "primary_voivodeship": "Dolnośląskie",
+                    "memberships": [
+                        "Dolnośląska Okręgowa Izba Inżynierów Budownictwa"
+                    ]
+                },
+                "decision": {
+                    "names": "Grażyna Danuta Kasendra",
+                    "decision_number": "1/96",
+                    "permission_number": null
+                },
+                "contact_data": {
+                    "address": {}
+                },
+                "specialities": [
+                    {
+                        "speciality": "instalacyjna w zakresie sieci, instalacji i urządzeń wodociągowych i kanalizacyjnych, cieplnych, wentylacyjnych i gazowych",
+                        "discipline": "projektowanie",
+                        "extent": "bez ograniczeń"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "922",
+            "type": "professional_cards",
+            "attributes": {
+                "email_address": null,
+                "phone_number": null,
+                "postal_address": null,
+                "personal_details": {
+                    "professional_title": "inżynier",
+                    "academic_degree": "brak",
+                    "primary_voivodeship": "Dolnośląskie",
+                    "memberships": []
+                },
+                "decision": {
+                    "names": "Anna Bożena Matyja Gazda",
+                    "decision_number": "2/96",
+                    "permission_number": null
+                },
+                "contact_data": {
+                    "address": {}
+                },
+                "specialities": [
+                    {
+                        "speciality": "instalacyjna w zakresie sieci, instalacji i urządzeń wodociągowych i kanalizacyjnych, cieplnych, wentylacyjnych i gazowych",
+                        "discipline": "projektowanie",
+                        "extent": "ograniczone"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "923",
+            "type": "professional_cards",
+            "attributes": {
+                "email_address": null,
+                "phone_number": null,
+                "postal_address": null,
+                "personal_details": {
+                    "professional_title": "magister inżynier architekt",
+                    "academic_degree": "brak",
+                    "primary_voivodeship": "Dolnośląskie",
+                    "memberships": [
+                        "Dolnośląska Okręgowa Izba Architektów RP"
+                    ]
+                },
+                "decision": {
+                    "names": "Jacek Tomasz Świtoń",
+                    "decision_number": "3/96",
+                    "permission_number": null
+                },
+                "contact_data": {
+                    "address": {}
+                },
+                "specialities": [
+                    {
+                        "speciality": "architektoniczna",
+                        "discipline": "projektowanie",
+                        "extent": "bez ograniczeń"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "925",
+            "type": "professional_cards",
+            "attributes": {
+                "email_address": null,
+                "phone_number": null,
+                "postal_address": null,
+                "personal_details": {
+                    "professional_title": "technik",
+                    "academic_degree": "brak",
+                    "primary_voivodeship": "Dolnośląskie",
+                    "memberships": []
+                },
+                "decision": {
+                    "names": "Józef Franciszek Ślączka",
+                    "decision_number": "5/96",
+                    "permission_number": null
+                },
+                "contact_data": {
+                    "address": {}
+                },
+                "specialities": [
+                    {
+                        "speciality": "instalacyjna w zakresie sieci, instalacji i urządzeń elektrycznych i elektroenergetycznych",
+                        "discipline": "kierowanie robotami budowlanymi",
+                        "extent": "ograniczone"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "926",
+            "type": "professional_cards",
+            "attributes": {
+                "email_address": null,
+                "phone_number": null,
+                "postal_address": null,
+                "personal_details": {
+                    "professional_title": "technik",
+                    "academic_degree": "brak",
+                    "primary_voivodeship": "Dolnośląskie",
+                    "memberships": [
+                        "Dolnośląska Okręgowa Izba Inżynierów Budownictwa"
+                    ]
+                },
+                "decision": {
+                    "names": "Krzysztof Zbigniew Wajda",
+                    "decision_number": "6/96",
+                    "permission_number": null
+                },
+                "contact_data": {
+                    "address": {}
+                },
+                "specialities": [
+                    {
+                        "speciality": "instalacyjna w zakresie sieci, instalacji i urządzeń elektrycznych i elektroenergetycznych",
+                        "discipline": "kierowanie robotami budowlanymi",
+                        "extent": "ograniczone"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "927",
+            "type": "professional_cards",
+            "attributes": {
+                "email_address": null,
+                "phone_number": null,
+                "postal_address": null,
+                "personal_details": {
+                    "professional_title": "magister inżynier",
+                    "academic_degree": "brak",
+                    "primary_voivodeship": "Dolnośląskie",
+                    "memberships": [
+                        "Dolnośląska Okręgowa Izba Inżynierów Budownictwa"
+                    ]
+                },
+                "decision": {
+                    "names": "Arkadiusz Hurko",
+                    "decision_number": "7/96",
+                    "permission_number": null
+                },
+                "contact_data": {
+                    "address": {}
+                },
+                "specialities": [
+                    {
+                        "speciality": "instalacyjna w zakresie sieci, instalacji i urządzeń wodociągowych i kanalizacyjnych, cieplnych, wentylacyjnych i gazowych",
+                        "discipline": "kierowanie robotami budowlanymi",
+                        "extent": "bez ograniczeń"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "928",
+            "type": "professional_cards",
+            "attributes": {
+                "email_address": null,
+                "phone_number": null,
+                "postal_address": null,
+                "personal_details": {
+                    "professional_title": "magister inżynier",
+                    "academic_degree": "brak",
+                    "primary_voivodeship": "Dolnośląskie",
+                    "memberships": []
+                },
+                "decision": {
+                    "names": "Adam Roman Jaskuła",
+                    "decision_number": "8/96",
+                    "permission_number": null
+                },
+                "contact_data": {
+                    "address": {}
+                },
+                "specialities": [
+                    {
+                        "speciality": "instalacyjna w zakresie sieci, instalacji i urządzeń wodociągowych i kanalizacyjnych, cieplnych, wentylacyjnych i gazowych",
+                        "discipline": "kierowanie robotami budowlanymi",
+                        "extent": "bez ograniczeń"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "929",
+            "type": "professional_cards",
+            "attributes": {
+                "email_address": null,
+                "phone_number": null,
+                "postal_address": null,
+                "personal_details": {
+                    "professional_title": "magister inżynier",
+                    "academic_degree": "brak",
+                    "primary_voivodeship": "Dolnośląskie",
+                    "memberships": [
+                        "Dolnośląska Okręgowa Izba Inżynierów Budownictwa"
+                    ]
+                },
+                "decision": {
+                    "names": "Wojciech Narcyz Tarka",
+                    "decision_number": "9/96",
+                    "permission_number": null
+                },
+                "contact_data": {
+                    "address": {}
+                },
+                "specialities": [
+                    {
+                        "speciality": "instalacyjna w zakresie sieci, instalacji i urządzeń wodociągowych i kanalizacyjnych, cieplnych, wentylacyjnych i gazowych",
+                        "discipline": "kierowanie robotami budowlanymi",
+                        "extent": "bez ograniczeń"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "930",
+            "type": "professional_cards",
+            "attributes": {
+                "email_address": null,
+                "phone_number": null,
+                "postal_address": null,
+                "personal_details": {
+                    "professional_title": "magister inżynier",
+                    "academic_degree": "brak",
+                    "primary_voivodeship": "Dolnośląskie",
+                    "memberships": [
+                        "Dolnośląska Okręgowa Izba Inżynierów Budownictwa"
+                    ]
+                },
+                "decision": {
+                    "names": "Adam Piotr Gierczak",
+                    "decision_number": "11/96",
+                    "permission_number": null
+                },
+                "contact_data": {
+                    "address": {}
+                },
+                "specialities": [
+                    {
+                        "speciality": "konstrukcyjno-budowlana",
+                        "discipline": "kierowanie robotami budowlanymi",
+                        "extent": "bez ograniczeń"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "931",
+            "type": "professional_cards",
+            "attributes": {
+                "email_address": null,
+                "phone_number": null,
+                "postal_address": null,
+                "personal_details": {
+                    "professional_title": "magister inżynier",
+                    "academic_degree": "brak",
+                    "primary_voivodeship": "Dolnośląskie",
+                    "memberships": [
+                        "Dolnośląska Okręgowa Izba Inżynierów Budownictwa"
+                    ]
+                },
+                "decision": {
+                    "names": "Adam Piotr Gierczak",
+                    "decision_number": "189/98/UW",
+                    "permission_number": null
+                },
+                "contact_data": {
+                    "address": {}
+                },
+                "specialities": [
+                    {
+                        "speciality": "konstrukcyjno-budowlana",
+                        "discipline": "projektowanie",
+                        "extent": "bez ograniczeń"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "932",
+            "type": "professional_cards",
+            "attributes": {
+                "email_address": null,
+                "phone_number": null,
+                "postal_address": null,
+                "personal_details": {
+                    "professional_title": "magister inżynier",
+                    "academic_degree": "brak",
+                    "primary_voivodeship": "Dolnośląskie",
+                    "memberships": [
+                        "Dolnośląska Okręgowa Izba Inżynierów Budownictwa"
+                    ]
+                },
+                "decision": {
+                    "names": "Adam Piotr Gierczak",
+                    "decision_number": "191/00/DUW",
+                    "permission_number": null
+                },
+                "contact_data": {
+                    "address": {}
+                },
+                "specialities": [
+                    {
+                        "speciality": "architektoniczna",
+                        "discipline": "projektowanie",
+                        "extent": "ograniczone"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "934",
+            "type": "professional_cards",
+            "attributes": {
+                "email_address": null,
+                "phone_number": null,
+                "postal_address": null,
+                "personal_details": {
+                    "professional_title": "inżynier",
+                    "academic_degree": "brak",
+                    "primary_voivodeship": "Dolnośląskie",
+                    "memberships": []
+                },
+                "decision": {
+                    "names": "Aleksander Wyderkowski",
+                    "decision_number": "114/00/DUW",
+                    "permission_number": null
+                },
+                "contact_data": {
+                    "address": {}
+                },
+                "specialities": [
+                    {
+                        "speciality": "instalacyjna w zakresie sieci, instalacji i urządzeń elektrycznych i elektroenergetycznych",
+                        "discipline": "projektowanie i kierowanie robotami budowlanymi",
+                        "extent": "bez ograniczeń"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "960",
+            "type": "professional_cards",
+            "attributes": {
+                "email_address": null,
+                "phone_number": null,
+                "postal_address": null,
+                "personal_details": {
+                    "professional_title": "technik",
+                    "academic_degree": "brak",
+                    "primary_voivodeship": "Dolnośląskie",
+                    "memberships": [
+                        "Dolnośląska Okręgowa Izba Inżynierów Budownictwa"
+                    ]
+                },
+                "decision": {
+                    "names": "Bolesław Michaluk",
+                    "decision_number": "6/96",
+                    "permission_number": null
+                },
+                "contact_data": {
+                    "address": {}
+                },
+                "specialities": [
+                    {
+                        "speciality": "instalacyjna w zakresie sieci, instalacji i urządzeń wodociągowych i kanalizacyjnych, cieplnych, wentylacyjnych i gazowych",
+                        "discipline": "kierowanie robotami budowlanymi",
+                        "extent": "ograniczone"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "961",
+            "type": "professional_cards",
+            "attributes": {
+                "email_address": null,
+                "phone_number": null,
+                "postal_address": null,
+                "personal_details": {
+                    "professional_title": "magister inżynier",
+                    "academic_degree": "brak",
+                    "primary_voivodeship": "Dolnośląskie",
+                    "memberships": [
+                        "Dolnośląska Okręgowa Izba Inżynierów Budownictwa"
+                    ]
+                },
+                "decision": {
+                    "names": "Dariusz Sidorczyk",
+                    "decision_number": "5/96",
+                    "permission_number": null
+                },
+                "contact_data": {
+                    "address": {}
+                },
+                "specialities": [
+                    {
+                        "speciality": "instalacyjna w zakresie sieci, instalacji i urządzeń wodociągowych i kanalizacyjnych, cieplnych, wentylacyjnych i gazowych",
+                        "discipline": "kierowanie robotami budowlanymi",
+                        "extent": "bez ograniczeń"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "962",
+            "type": "professional_cards",
+            "attributes": {
+                "email_address": null,
+                "phone_number": null,
+                "postal_address": null,
+                "personal_details": {
+                    "professional_title": "technik",
+                    "academic_degree": "brak",
+                    "primary_voivodeship": "Dolnośląskie",
+                    "memberships": [
+                        "Dolnośląska Okręgowa Izba Inżynierów Budownictwa"
+                    ]
+                },
+                "decision": {
+                    "names": "Bogusław Gil",
+                    "decision_number": "3/96",
+                    "permission_number": null
+                },
+                "contact_data": {
+                    "address": {}
+                },
+                "specialities": [
+                    {
+                        "speciality": "konstrukcyjno-budowlana",
+                        "discipline": "kierowanie robotami budowlanymi",
+                        "extent": "ograniczone"
+                    }
+                ]
+            }
+        }
+    ],
+    "meta": {
+        "stats": {
+            "total": {
+                "count": 12268
+            }
+        }
+    }
+}
